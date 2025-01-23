@@ -8,9 +8,10 @@
 ## Weapons
 - [ ] Walking Stick
 - [X] Heavy Book
-- [ ] Fountain Pen
+- [X] Fountain Pen
 
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+Ocurrio en el laboratorio de ciencias
+Fue el librero con el baston
