@@ -2,8 +2,8 @@
 
 ## Suspects
 - [ ] The Librarian
-- [ ] The Chef
-- [X ] The Florist
+- [X] The Chef
+- [X] The Florist
 
 ## Weapons
 - [ ] Walking Stick
