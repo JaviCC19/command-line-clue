@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Walking Stick
-- [ ] Heavy Book
+- [X] Heavy Book
 - [ ] Fountain Pen
 
 ## Notes
